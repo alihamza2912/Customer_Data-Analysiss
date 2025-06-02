@@ -1,0 +1,8 @@
+Customer_ID,Age,Gender,City,Product_Category,Purchase_Amount,Purchase_Date,Order_Number
+101,25,Male,New York,Electronics,200.5,2024-01-15,1
+102,34,Female,Los Angeles,Clothing,150.75,2024-02-18,2
+103,45,Female,Chicago,Clothing,180.0,2024-02-25,1
+104,23,Male,Houston,Groceries,90.0,2024-03-05,1
+105,35,Male,Phoenix,Electronics,300.25,2024-04-01,3
+106,52,Female,Chicago,Groceries,45.0,2024-04-08,2
+107,43,Male,Houston,Clothing,120.0,2024-04-15,1
